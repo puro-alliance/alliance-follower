@@ -1,6 +1,6 @@
 # Livelli di adesione
 
-> Viewer, Sostenitore, Partner, Expert, Platinum: cosa offre ogni livello e come si sale.
+> Follower, Booster, Expert, Partner, Team: cosa offre ogni livello e come si sale.
 
 | | |
 |---|---|

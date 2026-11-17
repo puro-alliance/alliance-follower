@@ -1,7 +1,7 @@
 <!-- alliance:bloccato -->
 # Governance della roadmap
 
-> Verbali e materiali delle riunioni periodiche in cui i Platinum decidono priorità e direzioni.
+> Verbali e materiali delle riunioni periodiche in cui il Team decide priorità e direzioni.
 
 ---
 

@@ -6,7 +6,7 @@
 
 - [Manifesto PURO Alliance](docs/manifesto/) — Perché esiste PURO Alliance, cosa vuole diventare, cosa garantisce a chi entra.
 - [I cinque pilastri](docs/cinque-pilastri/) — Continuità, Evoluzione, Condivisione, Indipendenza, Patrimonio: cosa significano in pratica.
-- [Livelli di adesione](docs/livelli-di-adesione/) — Viewer, Sostenitore, Partner, Expert, Platinum: cosa offre ogni livello e come si sale.
+- [Livelli di adesione](docs/livelli-di-adesione/) — Follower, Booster, Expert, Partner, Team: cosa offre ogni livello e come si sale.
 - [Come entrare in PURO Alliance](docs/come-entrare/) — I passi per iscriversi e ricevere l'accesso al proprio livello.
 - [Domande frequenti](docs/faq/) — Le risposte alle domande più comuni su PURO Alliance.
 
@@ -16,7 +16,7 @@
 
 ### Tutorial e how-to
 
-- [Come modernizzare la vostra applicazione, in breve](tutorial/come-modernizzare-in-breve/) — Cosa aspettarsi da un progetto di modernizzazione e da dove partire. La guida completa è per i Sostenitori.
+- [Come modernizzare la vostra applicazione, in breve](tutorial/come-modernizzare-in-breve/) — Cosa aspettarsi da un progetto di modernizzazione e da dove partire. La guida completa è per i Booster.
 
 ### Scaricabili
 

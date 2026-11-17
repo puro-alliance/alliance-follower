@@ -1,6 +1,6 @@
 # Come modernizzare la vostra applicazione, in breve
 
-> Cosa aspettarsi da un progetto di modernizzazione e da dove partire. La guida completa è per i Sostenitori.
+> Cosa aspettarsi da un progetto di modernizzazione e da dove partire. La guida completa è per i Booster.
 
 | | |
 |---|---|

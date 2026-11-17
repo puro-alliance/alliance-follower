@@ -49,7 +49,7 @@
     "categoria": "docs",
     "cartella": "livelli-di-adesione",
     "titolo": "Livelli di adesione",
-    "presentazione": "Viewer, Sostenitore, Partner, Expert, Platinum: cosa offre ogni livello e come si sale.",
+    "presentazione": "Follower, Booster, Expert, Partner, Team: cosa offre ogni livello e come si sale.",
     "stato": "📋 Da costruire",
     "lancio": true,
     "forme": null
@@ -108,7 +108,7 @@
     "categoria": "tutorial",
     "cartella": "come-modernizzare-in-breve",
     "titolo": "Come modernizzare la vostra applicazione, in breve",
-    "presentazione": "Cosa aspettarsi da un progetto di modernizzazione e da dove partire. La guida completa è per i Sostenitori.",
+    "presentazione": "Cosa aspettarsi da un progetto di modernizzazione e da dove partire. La guida completa è per i Booster.",
     "stato": "💡 Idea",
     "lancio": true,
     "forme": null
@@ -906,7 +906,7 @@
     "categoria": "governance",
     "cartella": "governance-roadmap",
     "titolo": "Governance della roadmap",
-    "presentazione": "Verbali e materiali delle riunioni periodiche in cui i Platinum decidono priorità e direzioni.",
+    "presentazione": "Verbali e materiali delle riunioni periodiche in cui il Team decide priorità e direzioni.",
     "stato": "💡 Idea",
     "lancio": false,
     "forme": null
