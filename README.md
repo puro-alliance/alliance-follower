@@ -15,8 +15,8 @@ Con il livello **Follower** hai accesso completo a **10** voci. Le altre mostran
 | ✅ | [Domande frequenti](follower/docs/faq/) | Follower | 📋 Da costruire |
 | ✅ | [Livelli di adesione](follower/docs/livelli-di-adesione/) | Follower | 📋 Da costruire |
 | ✅ | [Manifesto PURO Alliance](follower/docs/manifesto/) | Follower | 🔧 Esiste, da pulire o stabilizzare |
-| ◐ | [WIP, lavorare su un altro job](follower/regali/wip/) | Follower | 🔧 Esiste, da pulire o stabilizzare |
 | ✅ | [Roadmap pubblica](follower/roadmap/roadmap-pubblica/) | Follower | 📋 Da costruire |
+| ◐ | [WIP, lavorare su un altro job](follower/scaricabili/wip/) | Follower | 🔧 Esiste, da pulire o stabilizzare |
 | ✅ | [Analisi di compatibilità DSPF](follower/tools/analisi-compatibilita-dspf/) | Follower | 📋 Da costruire |
 | ✅ | [Come modernizzare la vostra applicazione, in breve](follower/tutorial/come-modernizzare-in-breve/) | Follower | 💡 Idea |
 | 🔒 | [WHATS-I per AS400](booster/app/whats-i/) | Booster | 🔧 Esiste, da pulire o stabilizzare |

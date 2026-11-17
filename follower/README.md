@@ -1,6 +1,6 @@
 # Area Follower
 
-> Aperta a tutti gli iscritti, senza quota: documenti della community, articoli, tutorial, roadmap e il regalo di benvenuto.
+> Aperta a tutti gli iscritti, senza quota: documenti della community, articoli, tutorial, roadmap e gli strumenti scaricabili.
 
 ### Documenti
 
@@ -18,9 +18,9 @@
 
 - [Come modernizzare la vostra applicazione, in breve](tutorial/come-modernizzare-in-breve/) — Cosa aspettarsi da un progetto di modernizzazione e da dove partire. La guida completa è per i Sostenitori.
 
-### Regali
+### Scaricabili
 
-- [WIP, lavorare su un altro job](regali/wip/) — Utility per intervenire da un terminale su un altro job in esecuzione: operare sulla sua QTEMP, inviargli interrupt di sistema. Con esempi di interrupt di sistema.
+- [WIP, lavorare su un altro job](scaricabili/wip/) — Utility per intervenire da un terminale su un altro job in esecuzione: operare sulla sua QTEMP, inviargli interrupt di sistema. Con esempi di interrupt di sistema.
 
 ### Roadmap
 

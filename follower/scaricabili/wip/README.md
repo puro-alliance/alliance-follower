@@ -5,7 +5,7 @@
 | | |
 |---|---|
 | **Livello** | Follower |
-| **Categoria** | Regali |
+| **Categoria** | Scaricabili |
 | **Stato** | 🔧 Esiste, da pulire o stabilizzare |
 | **ID inventario** | E4f |
 | **Al lancio** | Sì: deve essere pronta per l'apertura delle iscrizioni |

@@ -66,9 +66,20 @@
     "forme": null
   },
   {
+    "id": "V6",
+    "livello": "follower",
+    "categoria": "roadmap",
+    "cartella": "roadmap-pubblica",
+    "titolo": "Roadmap pubblica",
+    "presentazione": "Cosa sta arrivando in PURO. Le priorità si votano aprendo una issue.",
+    "stato": "📋 Da costruire",
+    "lancio": true,
+    "forme": null
+  },
+  {
     "id": "E4f",
     "livello": "follower",
-    "categoria": "regali",
+    "categoria": "scaricabili",
     "cartella": "wip",
     "titolo": "WIP, lavorare su un altro job",
     "presentazione": "Utility per intervenire da un terminale su un altro job in esecuzione: operare sulla sua QTEMP, inviargli interrupt di sistema. Con esempi di interrupt di sistema.",
@@ -79,17 +90,6 @@
       "sorgenti": "partner",
       "kb-ia": "partner"
     }
-  },
-  {
-    "id": "V6",
-    "livello": "follower",
-    "categoria": "roadmap",
-    "cartella": "roadmap-pubblica",
-    "titolo": "Roadmap pubblica",
-    "presentazione": "Cosa sta arrivando in PURO. Le priorità si votano aprendo una issue.",
-    "stato": "📋 Da costruire",
-    "lancio": true,
-    "forme": null
   },
   {
     "id": "G2",
