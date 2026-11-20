@@ -5,6 +5,13 @@
 **Stato**: strumento esistente, in fase di stabilizzazione. Il file di salvataggio con gli oggetti pronti
 all'uso sarà pubblicato nella cartella [`oggetti/`](oggetti/), insieme alle istruzioni di installazione.
 
+## Video
+
+[![Tutorial video di WIP, 4 minuti](tutorial-wip.jpg)](tutorial-wip.mp4)
+
+**[Guarda il tutorial (4 minuti)](tutorial-wip.mp4)**: l'elenco dei lavori e il comando dentro un lavoro, la QTEMP,
+il blocco, il Service Job e la copia dello schermo, filmati su un terminale 5250 vero, su un sistema di prova.
+
 ## 1. Che cos'è
 
 WIP («Work with other jobs», lavorare su altri lavori) è un'utility per IBM i che permette, da un normale
@@ -142,6 +149,9 @@ vede lui.
 
 - F5 aggiorna la schermata;
 - F3 torna all'elenco.
+
+La copia è una fotografia dell'istante in cui si sceglie l'opzione: se l'utente continua a lavorare, sul vostro
+terminale resta quella schermata. Per vedere quella nuova si preme F5, che interrompe di nuovo il lavoro e rifà la copia.
 
 Ogni schermata copiata viene anche registrata nel file di log di WIP (`WIP_LOG`): tenetene conto se le
 schermate contengono dati riservati.

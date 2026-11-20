@@ -14,6 +14,8 @@
 
 ## Contenuto
 
+Il **[video tutorial](tutorial-wip.mp4)** (4 minuti) mostra WIP all'opera su un terminale 5250, su un sistema di prova.
+
 La **[guida all'uso](guida.md)** spiega che cos'è WIP, come funziona e le sue funzioni una per una: comando dentro un altro lavoro, copia e modifica della QTEMP, copia dello schermo, blocco del lavoro, Service Job.
 
 Lo stesso tool è disponibile in forme diverse a seconda del livello:
