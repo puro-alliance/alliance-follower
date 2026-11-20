@@ -417,6 +417,17 @@
     "forme": null
   },
   {
+    "id": "A9",
+    "livello": "expert",
+    "categoria": "demo",
+    "cartella": "demo-calendario-tessere",
+    "titolo": "Calendario a tessere, demo",
+    "presentazione": "Programma RPG e display file per PURO: calendario fatto con le tessere (TILE), con voci nidificate dove servono.",
+    "stato": "📋 Da costruire",
+    "lancio": false,
+    "forme": null
+  },
+  {
     "id": "A3",
     "livello": "expert",
     "categoria": "demo",
@@ -434,6 +445,17 @@
     "cartella": "demo-ricalcolo-giacenze",
     "titolo": "Ricalcolo giacenze, demo batch",
     "presentazione": "Programma batch di ricalcolo giacenze di magazzino dai movimenti.",
+    "stato": "📋 Da costruire",
+    "lancio": false,
+    "forme": null
+  },
+  {
+    "id": "A8",
+    "livello": "expert",
+    "categoria": "demo",
+    "cartella": "demo-tabella-gerarchica",
+    "titolo": "Tabella gerarchica con spostamento righe, demo",
+    "presentazione": "Programma RPG e display file per PURO: tabella gerarchica, con righe padre e figlie, e spostamento delle righe trascinandole.",
     "stato": "📋 Da costruire",
     "lancio": false,
     "forme": null

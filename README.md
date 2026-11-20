@@ -2,7 +2,7 @@
 
 > La community del know-how della modernizzazione IBM i.
 
-Questa repository contiene **tutto il catalogo** di PURO Alliance: 82 voci.
+Questa repository contiene **tutto il catalogo** di PURO Alliance: 84 voci.
 Con il livello **Follower** hai accesso completo a **10** voci. Le altre mostrano titolo e descrizione: per accedervi si sale di livello.
 
 ✅ = accessibile · ◐ = accessibile in parte (alcune forme, per esempio i sorgenti, da un livello superiore) · 🔒 = disponibile da un livello superiore
@@ -44,8 +44,10 @@ Con il livello **Follower** hai accesso completo a **10** voci. Le altre mostran
 | 🔒 | [PURO core](expert/core/puro-core/) | Expert | 📋 Da costruire |
 | 🔒 | [QIQ, motore di query](expert/core/qiq/) | Expert | 🔧 Esiste, da pulire o stabilizzare |
 | 🔒 | [Anagrafica clienti, demo CRUD](expert/demo/demo-anagrafica-clienti/) | Expert | ✅ Esiste e funziona |
+| 🔒 | [Calendario a tessere, demo](expert/demo/demo-calendario-tessere/) | Expert | 📋 Da costruire |
 | 🔒 | [Lista ordini con dettaglio righe](expert/demo/demo-lista-ordini/) | Expert | ✅ Esiste e funziona |
 | 🔒 | [Ricalcolo giacenze, demo batch](expert/demo/demo-ricalcolo-giacenze/) | Expert | 📋 Da costruire |
+| 🔒 | [Tabella gerarchica con spostamento righe, demo](expert/demo/demo-tabella-gerarchica/) | Expert | 📋 Da costruire |
 | 🔒 | [KB e skill per gli assistenti IA](expert/kb/kb-assistenti-ia/) | Expert | 💡 Idea |
 | 🔒 | [Osservare un job IBM i dall'esterno](expert/kb/osservare-job-ibmi/) | Expert | ✅ Esiste e funziona |
 | 🔒 | [Convertitore RPG fisso → free](expert/migrate/convertitore-fisso-free/) | Expert | ✅ Esiste e funziona |

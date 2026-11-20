@@ -6,8 +6,10 @@
 - 🔒 [PURO core](core/puro-core/) — Il motore minimo, legato alla matricola IBM i, che fa girare le applicazioni PRODIGYT.
 - 🔒 [QIQ, motore di query](core/qiq/) — Motore di query su DB2 con filtri, ordinamenti, selezione campi e composizione SQL. Alimenta i viewer.
 - 🔒 [Anagrafica clienti, demo CRUD](demo/demo-anagrafica-clienti/) — Programma RPG completo di gestione clienti: lista con filtri, dettaglio su due pagine, inserimento, modifica, ricerca F4.
+- 🔒 [Calendario a tessere, demo](demo/demo-calendario-tessere/) — Programma RPG e display file per PURO: calendario fatto con le tessere (TILE), con voci nidificate dove servono.
 - 🔒 [Lista ordini con dettaglio righe](demo/demo-lista-ordini/) — Interrogazione ordini con filtri dinamici, testata e drill-down sulle righe, in SQL embedded.
 - 🔒 [Ricalcolo giacenze, demo batch](demo/demo-ricalcolo-giacenze/) — Programma batch di ricalcolo giacenze di magazzino dai movimenti.
+- 🔒 [Tabella gerarchica con spostamento righe, demo](demo/demo-tabella-gerarchica/) — Programma RPG e display file per PURO: tabella gerarchica, con righe padre e figlie, e spostamento delle righe trascinandole.
 - 🔒 [KB e skill per gli assistenti IA](kb/kb-assistenti-ia/) — La conoscenza di PURO pronta per gli assistenti di sviluppo: Claude e, dopo lo studio, IBM Bob.
 - 🔒 [Osservare un job IBM i dall'esterno](kb/osservare-job-ibmi/) — Come leggere memoria e stato di un job in esecuzione, con e senza debug.
 - 🔒 [Convertitore RPG fisso → free](migrate/convertitore-fisso-free/) — Converte i sorgenti RPG a posizioni fisse in formato free.
